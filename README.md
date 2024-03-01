@@ -1,7 +1,7 @@
 ### Oiee! Eu sou o Yuji 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriqueyuji8)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](edin.com/in/henrique-yuji-isogai-yoneoka-05621a266/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-yuji-isogai-yoneoka-05621a266/)
 
 
 <div>
