@@ -15,4 +15,6 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-Sou estudante de Ciências da Computação na Universidade Presbiteriana Mackenzie. Desde que entrei na faculdade, tenho me dedicado a aprender sobre tecnologia e programação. Gosto de desafios e estou sempre buscando aprender mais. Tenho um interesse especial em cibersegurança e estou ansioso para explorar mais esse campo emocionante. Estou animado para seguir uma carreira na área de computação.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique340)](https://github.com/anuraghazra/github-readme-stats)
+
+Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas.
