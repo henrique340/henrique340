@@ -29,9 +29,11 @@
 </div><br/>
 
 
-
+## Sobre mim
 
 Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas.
+
+## Minhas Contribuições
 
 ![snake animation](https://github.com/henrique340/henrique340/blob/output/github-contribution-grid-snake.svg)
 
