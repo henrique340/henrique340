@@ -33,4 +33,6 @@
 
 Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas.
 
-![snake animation](https://github.com/<henrique340>/<henrique340>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/henrique340/henrique340/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=henrique340&repo=henrique340&theme=react)](https://github.com/henrique340/henrique340)
