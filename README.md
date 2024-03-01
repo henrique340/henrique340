@@ -4,17 +4,33 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](edin.com/in/henrique-yuji-isogai-yoneoka-05621a266/)
 
 
-![Yuji GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique340&theme=midnight-purple&show_icons=true)
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=henrique340&theme=midnight-purple&show_icons=true" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique340&layout=compact&theme=midnight-purple" />
+</div>
+
+
 
 
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique340)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias que eu estou aprendendo
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+</div><br/>
+
+
+
 
 Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas.
+
+[![Snake animation](https://github.com/henrique340)
