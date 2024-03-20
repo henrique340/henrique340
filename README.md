@@ -31,5 +31,5 @@
 
 ## Sobre mim
 
-Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas.
+Sou estudante de Ciências da Computação dedicado a aprender sobre tecnologia e programação. Busco melhorar a cada dia e estou sempre aberto a críticas construtivas
 
