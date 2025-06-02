@@ -28,6 +28,31 @@
   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
 </div><br/>
 
+## instituições 
+* MackLeaps
+  * O MackLeaps é uma residência de software da minha faculdade que eu faço parte
+  * Nós realizamos projetos que auxiliam o dia a dia na faculdade
+    * Aplicativo de estação meteorológica
+      
+* Movimento Jovem
+  * Essa é uma instituição de jovens japoneses que eu faço parte
+  * Nós realizamos
+    * Trabalhos voluntários
+    * Eventos de integração entre jovens
+   
+* Abeuni
+  * É uma ONG de voluntários
+  * Participação
+    * Como auxiliar de dentista
+    * Como auxiliar de oftalmologista
+    * Como auxiliar de enfermeiro
+    * Como recreação para crianças
+    * No preenchimento do formulário de cadastro dos pacientes
+    * Na educação de crianças sobre nutrição
+    * Na educação de crianças sobre escovação dentária
+    * Na educação sexual de jovens e adolescentes
+    * No trabalho de campo distribuindo panfletos sobre o voluntário 
+
 ## Badges
 ![networking-academy-learn-a-thon-2024 (3)](https://github.com/henrique340/henrique340/assets/79547136/02588f45-3f6c-4e39-8970-1a3ba7e51c31)
 
