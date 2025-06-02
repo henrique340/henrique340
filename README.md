@@ -35,13 +35,15 @@
     * Aplicativo de estação meteorológica
       
 * Movimento Jovem
-  * Essa é uma instituição de jovens japoneses que eu faço parte
+  * Essa é uma organização para integrar jovens da comunidade japonesa na América Latina
   * Nós realizamos
     * Trabalhos voluntários
     * Eventos de integração entre jovens
+  * Sou vice diretor do Movimento jovem
+  * Coordeno os departamentos de Infraestrutura e Marketing
    
 * Abeuni
-  * É uma ONG de voluntários
+  * É uma entidade assistencial e educacional sem fins lucrativos e composto por universitários e profissionais da saúde
   * Participação
     * Como auxiliar de dentista
     * Como auxiliar de oftalmologista
