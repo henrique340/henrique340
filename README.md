@@ -1,54 +1,91 @@
-### Oiee! Eu sou o Yuji 👋
+# Hi, I'm Henrique Yuji 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriqueyuji8)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-yuji-isogai-yoneoka-05621a266/)
+Computer Science student at Universidade Presbiteriana Mackenzie and Solution Architecture Intern at Oracle, focused on software development, automation, AI and cloud-based solutions.
 
+I enjoy building practical solutions that reduce manual work, improve process reliability and connect technology with business needs.
 
+---
 
+## About me
 
-## Tecnologias que eu uso no meu dia a dia
+- 🎓 Computer Science undergraduate student — expected graduation: December 2026
+- 💼 Solution Architecture Intern at Oracle, working with Customer Success Services and technical pre-sales
+- 🤖 Interested in automation, AI agents, generative AI, software architecture and cloud solutions
+- 🛠️ Experience with Python, SQL, web scraping, APIs, React, Node.js and process automation
+- 🌎 Advanced English and intermediate Spanish
+- 🤝 Volunteer leader with experience coordinating large teams, events and sponsorship initiatives
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-</div><br/>
+---
 
-## Tecnologias que eu estou aprendendo
+## Main interests
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-</div><br/>
+- Solution Architecture
+- Software Development
+- Process Automation
+- Generative AI and AI Agents
+- Cloud Computing
+- Technical Pre-Sales
+- Data Visualization
 
-## instituições 
-* MackLeaps
-  * O MackLeaps é uma residência de software da minha faculdade que eu faço parte
-  * Nós realizamos projetos que auxiliam o dia a dia na faculdade
-    * Aplicativo de estação meteorológica
-      
-* Movimento Jovem
-  * Essa é uma organização para integrar jovens da comunidade japonesa na América Latina
-  * Nós realizamos
-    * Trabalhos voluntários
-    * Eventos de integração entre jovens
-  * Sou vice diretor do Movimento jovem
-  * Coordeno os departamentos de Infraestrutura e Marketing
-   
-* Abeuni
-  * É uma entidade assistencial e educacional sem fins lucrativos e composto por universitários e profissionais da saúde
-  * Participação
-    * Como auxiliar de dentista
-    * Como auxiliar de oftalmologista
-    * Como auxiliar de enfermeiro
-    * Como recreação para crianças
-    * No preenchimento do formulário de cadastro dos pacientes
-    * Na educação de crianças sobre nutrição
-    * Na educação de crianças sobre escovação dentária
-    * Na educação sexual de jovens e adolescentes
-    * No trabalho de campo distribuindo panfletos sobre o voluntário 
+---
 
-## Sobre mim
+## Tech Stack
 
-Como estudante de Ciências da Computação, interessado nas áreas de desenvolvimento python e cibersegurança, tenho afinidade em explorar novas linguagens de programação. Além disso, valorizo a colaboração em equipe e a comunicação.
+### Languages
+Python · Java · SQL · JavaScript · HTML · CSS · C · R
+
+### Web Development
+React · Tailwind CSS · Node.js · Flask · FastAPI · REST APIs
+
+### Databases
+Oracle Database · MySQL · PostgreSQL · Redis
+
+### Automation and AI
+Python Automation · Playwright · Selenium · Web Scraping · Chatbots · Generative AI · AI Agents
+
+### Cloud and DevOps
+Oracle Cloud Infrastructure · AWS · Git · GitHub · GitLab · GitHub Actions · Terminal
+
+### Data
+Pandas · Matplotlib · Dashboards · Reports
+
+---
+
+## Highlighted experience
+
+### Professional automation project
+Developed an end-to-end automation solution for a manual business workflow, reducing the execution time of complex cases from approximately 20 minutes to 3 minutes.
+
+The solution involved chatbot interactions, Python scripts, web scraping, automated calculations, data validation, report generation and email automation.
+
+### Weather data visualization web app
+Worked on the front-end of a web application for visualizing real-time weather station data from the university campus.
+
+The project helped students and professors access climate data through a clearer and more user-friendly interface.
+
+Technologies used: React, Node.js, HTML, CSS and JavaScript.
+
+---
+
+## Leadership and volunteering
+
+- Vice President at Movimento Jovem, supporting organizational restructuring, event planning and committee coordination
+- Finance Director at Abeuni, working on financial growth strategies, sponsorship initiatives and volunteer coordination
+- Experience organizing events with 100+ participants and collaborating with multidisciplinary teams
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure Generative AI Professional
+- AI Agent Studio Oracle
+- GitHub — Coursera
+- Scrum — Coursera
+- Foundations of Cybersecurity — Cisco
+
+---
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/henrique-yuji/)  
+[GitHub](https://github.com/henrique340)
