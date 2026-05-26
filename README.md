@@ -4,12 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-yuji-isogai-yoneoka-05621a266/)
 
 
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=henrique340&theme=midnight-purple&show_icons=true" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique340&layout=compact&theme=midnight-purple" />
-</div>
-
-
 
 
 ## Tecnologias que eu uso no meu dia a dia
