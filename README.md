@@ -49,13 +49,6 @@
     * Na educação sexual de jovens e adolescentes
     * No trabalho de campo distribuindo panfletos sobre o voluntário 
 
-## Badges
-![networking-academy-learn-a-thon-2024 (3)](https://github.com/henrique340/henrique340/assets/79547136/02588f45-3f6c-4e39-8970-1a3ba7e51c31)
-
-![endpoint-security](https://github.com/henrique340/henrique340/assets/79547136/888f360b-9624-45f8-949b-2ea4ef154587)
-
-![cybersecurity-essentials](https://github.com/henrique340/henrique340/assets/79547136/8cf7ac2e-5fc1-41de-8d83-f95d9b22a61d)
-
 ## Sobre mim
 
 Como estudante de Ciências da Computação, interessado nas áreas de desenvolvimento python e cibersegurança, tenho afinidade em explorar novas linguagens de programação. Além disso, valorizo a colaboração em equipe e a comunicação.
