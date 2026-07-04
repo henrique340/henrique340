@@ -1,31 +1,21 @@
-# Hi, I'm Henrique Yuji 👋
+# Hi, I'm ...
 
-Computer Science student at Universidade Presbiteriana Mackenzie and Solution Architecture Intern at Oracle, focused on software development, automation, AI and cloud-based solutions.
+I don't belive in overly complex solution when good architecture and good roadmap gets the job done
 
-I enjoy building practical solutions that reduce manual work, improve process reliability and connect technology with business needs.
+I'm currently designing scalable solutions, exploring new Artificial Intefigence featrures, and automating processes that everyones hate
 
+Always building something new.
 ---
 
 ## About me
 
-- 🎓 Computer Science undergraduate student — expected graduation: December 2026
-- 💼 Solution Architecture Intern at Oracle, working with Customer Success Services and technical pre-sales
-- 🤖 Interested in automation, AI agents, generative AI, software architecture and cloud solutions
-- 🛠️ Experience with Python, SQL, web scraping, APIs, React, Node.js and process automation
-- 🌎 Advanced English and intermediate Spanish
-- 🤝 Volunteer leader with experience coordinating large teams, events and sponsorship initiatives
-
----
-
-## Main interests
-
-- Solution Architecture
-- Software Development
-- Process Automation
-- Generative AI and AI Agents
-- Cloud Computing
-- Technical Pre-Sales
-- Data Visualization
+- 🎓 B.Sc. in Computer Science (expected graduation: December 2026)
+- 💼 Solution Architecture Intern at Oracle, supporting Customer Success Services and technical pre-sales
+- ☁️ Passionate about cloud architecture, automation, AI agents, and distributed systems
+- 🛠️ Hands-on experience with Python, Playwright, MySQL, React, Node, C, Java, APIs, CI/CD ...
+- 🚀 Constantly exploring new technologies and turning ideas into practical solutions
+- 🌎 Advanced in English and intermediate in Spanish
+- 🤝 Volunteer leader with experience coordinating large teams, events, and sponsorship initiatives
 
 ---
 
